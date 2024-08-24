@@ -80,8 +80,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📧 **Contact**
 
 For further information or inquiries, please contact:
-- **Name:** Suhail Ahmad
-- **Email:** [rbsuhail123@gmail.com](mailto:rbsuhail123@gmail.com)
+- **Name:** Shaqlain Raza
+- **Email:** [shaqlainraza89@gmail.com](mailto:shaqlainraza89@gmail.com)
 
 ---
 
